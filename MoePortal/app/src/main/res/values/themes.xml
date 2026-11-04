@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Portal" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">#064F44</item>
+        <item name="android:navigationBarColor">#064F44</item>
+        <item name="android:windowBackground">#064F44</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
